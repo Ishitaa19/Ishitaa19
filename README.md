@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitaa19&label=Profile%20views&color=0e75b6&style=flat" alt="ishitaa19" /> </p>
 
-- 💬 Ask me about **DSA JAVA and Web Development**
+- 💬 Ask me about **DSA JAVA SQL & Web Development**
 
 - 📫 How to reach me **ishitasharma6392@gmail.com**
 
